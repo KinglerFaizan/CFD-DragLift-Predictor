@@ -67,6 +67,4 @@ To develop a data-driven regression model capable of estimating drag and lift fr
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
